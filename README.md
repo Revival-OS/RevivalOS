@@ -1,20 +1,19 @@
-# Redécouvrez votre appareil avec RevivalOS !
+# Rediscover Your Device with RevivalOS!
 
-**RevivalOS** est un système d'exploitation léger, performant et personnalisable conçu pour donner une nouvelle vie aux smartphones et tablettes vieillissants. Basé sur Android, RevivalOS offre une expérience utilisateur fluide et réactive, tout en réduisant la consommation de ressources système.
+**RevivalOS** is a lightweight, high-performance, and customizable operating system designed to give a new life to aging smartphones and tablets. Based on Android, RevivalOS offers a smooth and responsive user experience while reducing system resource consumption.
 
-## Fonctionnalités principales
+## Key Features
 
-* **Performances optimisées:** Profitez d'une expérience utilisateur fluide et réactive même sur les appareils les plus modestes.
-* **Personnalisation poussée:** Adaptez RevivalOS à vos besoins et à vos goûts grâce à une large gamme d'options de personnalisation.
-* **Interface utilisateur intuitive:** Profitez d'une interface utilisateur simple et intuitive, facile à utiliser pour tous.
-* **Sécurité renforcée:** Bénéficiez de mises à jour de sécurité régulières pour protéger votre appareil contre les menaces.
-* **Longue durée de vie de la batterie:** Profitez d'une autonomie accrue grâce à une gestion optimisée de la batterie.
-* **Large choix d'applications:** Accédez à un large éventail d'applications compatibles avec RevivalOS via le Google Play Store ou d'autres sources.
+* **Optimized Performance:** Enjoy a smooth and responsive user experience even on the most modest devices.
+* **Extensive Customization:** Tailor RevivalOS to your needs and preferences with a wide range of customization options.
+* **Intuitive User Interface:** Experience a simple and intuitive user interface that is easy to use for everyone.
+* **Enhanced Security:** Benefit from regular security updates to protect your device from threats.
+* **Long Battery Life:** Enjoy extended battery life thanks to optimized battery management.
+* **Wide Range of Applications:** Access a vast array of applications compatible with RevivalOS via the Google Play Store or other sources.
 
-## Que vous soyez un utilisateur expérimenté ou un novice en technologie, RevivalOS est une excellente option pour donner une nouvelle vie à votre ancien appareil.
+## Whether you are an experienced user or a technology novice, RevivalOS is an excellent option to breathe new life into your old device.
 
-## Télécharger RevivalOS dès aujourd'hui et redonnez vie à votre appareil !
+## Download RevivalOS today and bring your device back to life!
+```
 
-[![Badge de téléchargement](URL lien de téléchargement de revivalos)](En création)
-
-[![Badge de communauté Discord](URL lien discord revivalos)](En création)
+Website in Dev
