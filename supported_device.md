@@ -1,8 +1,8 @@
 # RevivalOS Compatible Devices
 
-| Device Model                    | Status        | Supported RevivalOS Version |
-|---------------------------------|---------------|-----------------------------|
-| Samsung Galaxy Grand Prime VE   | Release       | RevivalOS 1.0               |
+| Device Model                    | Status               | Supported RevivalOS Version |
+|---------------------------------|----------------------|-----------------------------|
+| Samsung Galaxy Grand Prime VE   | In Development       | RevivalOS 1.0               |
 
 
 ## Notes
