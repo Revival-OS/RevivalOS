@@ -1,5 +1,3 @@
-Here is the modified license with the new clauses included:
-
 ---
 
 **RevivalOS Usage License**
