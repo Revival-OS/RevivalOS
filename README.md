@@ -3,8 +3,8 @@
 **RevivalOS** is a lightweight, high-performance, and customizable operating system designed to give a new life to aging smartphones and tablets. Based on Android, RevivalOS offers a smooth and responsive user experience while reducing system resource consumption.
 
 ## Suported Devices:
-**go here for see all suported devices or the futur devices who gonne be supported**
-  (https://github.com/Revival-OS/RevivalOS/blob/main/supported_device.md)[https://github.com/Revival-OS/RevivalOS/blob/main/supported_device.md]
+**go [here](https://github.com/Revival-OS/RevivalOS/blob/main/supported_device.md) for see all suported devices or the futur devices who gonne be supported**
+
 ## Key Features
 
 * **Optimized Performance:** Enjoy a smooth and responsive user experience even on the most modest devices.
