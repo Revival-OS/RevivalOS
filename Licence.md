@@ -1,7 +1,7 @@
 
 ---
 
-**RevivalOS Usage License**
+ # **RevivalOS Usage License**
 
 ---
 
