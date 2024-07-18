@@ -13,4 +13,4 @@
 
 ---
 
-For the latest updates and downloads, please visit the [RevivalOS GitHub page](https://github.com/your-github-page).
+For the latest updates and downloads, please visit the [RevivalOS GitHub page](https://github.com/Revival-OS/RevivalOS).
