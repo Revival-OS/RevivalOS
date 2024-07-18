@@ -1,9 +1,5 @@
 
----
-
  # **RevivalOS Usage License**
-
----
 
 **1. Ownership and Use**
 
